@@ -9,7 +9,7 @@ This project is a functional web-based prototype for the AyurChain system, desig
 ## ✨ Live Demo
 
 You can access the live, deployed prototype here:
-**[https://YOUR_APP_URL_HERE](https://ayurchain-prototype-keuncejokl5rlmaiiehftd.streamlit.app/)**
+**[https://ayurchain-prototype-keuncejokl5rlmaiiehftd.streamlit.app/](https://ayurchain-prototype-keuncejokl5rlmaiiehftd.streamlit.app/)**
 
 ## 🚀 Features
 
