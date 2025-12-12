@@ -1,6 +1,6 @@
 # AyurChain AI Authenticator (Prototype) V2.0
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://YOUR_APP_URL_HERE)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ayurchain-prototype-keuncejokl5rlmaiiehftd.streamlit.app/)
 
 This project is a functional web-based prototype for the AyurChain system, designed to bring trust and transparency to the Ayurvedic herbal supply chain. It uses AI-powered computer vision to instantly identify medicinal herbs from an image, helping to combat fraud and ensure product quality.
 
@@ -9,7 +9,7 @@ This project is a functional web-based prototype for the AyurChain system, desig
 ## ✨ Live Demo
 
 You can access the live, deployed prototype here:
-**[https://YOUR_APP_URL_HERE](https://YOUR_APP_URL_HERE)**
+**[https://YOUR_APP_URL_HERE](https://ayurchain-prototype-keuncejokl5rlmaiiehftd.streamlit.app/)**
 
 ## 🚀 Features
 
